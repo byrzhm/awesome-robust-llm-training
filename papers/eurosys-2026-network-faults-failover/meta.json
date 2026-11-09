@@ -1,0 +1,11 @@
+{
+  "id": "eurosys-2026-network-faults-failover",
+  "source": "acm",
+  "url": "https://dl.acm.org/doi/10.1145/3767295.3769322",
+  "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3767295.3769322",
+  "fetched_at": "2026-11-03T09:55:25+00:00",
+  "files": {
+    "pdf": "paper.pdf",
+    "tex_src": null
+  }
+}
