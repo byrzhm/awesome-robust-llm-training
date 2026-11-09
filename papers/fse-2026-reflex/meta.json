@@ -1,0 +1,11 @@
+{
+  "id": "fse-2026-reflex",
+  "source": "acm",
+  "url": "https://dl.acm.org/doi/10.1145/3803437.3805245",
+  "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3803437.3805245",
+  "fetched_at": "2026-11-03T08:58:35+00:00",
+  "files": {
+    "pdf": "paper.pdf",
+    "tex_src": null
+  }
+}
