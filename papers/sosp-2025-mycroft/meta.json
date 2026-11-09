@@ -1,0 +1,11 @@
+{
+  "id": "sosp-2025-mycroft",
+  "source": "arxiv",
+  "url": "https://arxiv.org/abs/2509.03018",
+  "pdf_url": "https://arxiv.org/pdf/2509.03018",
+  "fetched_at": "2026-11-03T09:17:30+00:00",
+  "files": {
+    "pdf": "paper.pdf",
+    "tex_src": "src.pdf（源码即 PDF，无 TeX）"
+  }
+}
