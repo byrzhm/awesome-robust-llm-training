@@ -1,0 +1,11 @@
+{
+  "id": "osdi-2025-training-with-confidence",
+  "source": "usenix",
+  "url": "https://www.usenix.org/conference/osdi25/presentation/jiang",
+  "pdf_url": "https://www.usenix.org/system/files/osdi25-jiang.pdf",
+  "fetched_at": "2026-11-03T08:30:51+00:00",
+  "files": {
+    "pdf": "paper.pdf",
+    "tex_src": null
+  }
+}
