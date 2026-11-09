@@ -1,0 +1,12 @@
+{
+  "id": "mlsys-2026-guard",
+  "source": "arxiv",
+  "url": "https://arxiv.org/abs/2605.17879",
+  "pdf_url": "https://arxiv.org/pdf/2605.17879",
+  "fetched_at": "2026-11-03T08:51:30+00:00",
+  "files": {
+    "pdf": "paper.pdf",
+    "tex_src": "src/（22 个文件）"
+  },
+  "venue": "MLSys 2026 (proceedings of the 9th MLSys Conference, Bellevue, WA, USA); arXiv:2605.17879 (cs.DC)"
+}
