@@ -1,0 +1,29 @@
+{
+  "id": "icde-2026-dlrover-lm",
+  "source": "ieee",
+  "url": "https://ieeexplore.ieee.org/document/11629553/",
+  "pdf_url": "https://doi.org/10.1109/ICDE65706.2026.00271",
+  "title": "DLRover-LM: LLM Pre-Training Framework With Thousands of Accelerators in AntGroup",
+  "authors": [
+    "Ziling Huang",
+    "Zhengmao Ye",
+    "Qingsong Cai",
+    "Zelong Huang",
+    "Bo Sang",
+    "Haitao Zhang",
+    "Jian Sha",
+    "Tingfeng Lan",
+    "Hui Lu",
+    "Yuanchun Zhou",
+    "Mingjie Tang"
+  ],
+  "venue": "IEEE ICDE 2026 (Industry and Application Track)",
+  "doi": "10.1109/ICDE65706.2026.00271",
+  "note": "IEEE Xplore 需机构订阅/登录，无 arXiv 预印本及任何开放版本（已查 arXiv、作者主页、GitHub、Unpaywall）。PDF 由用户 2026-11-03 经浏览器登录态手动下载。",
+  "code": "https://github.com/intelligent-machine-learning/dlrover",
+  "fetched_at": "2026-11-03T09:25:00+00:00",
+  "files": {
+    "pdf": "paper.pdf",
+    "tex_src": null
+  }
+}
