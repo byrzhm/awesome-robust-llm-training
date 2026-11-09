@@ -1,0 +1,11 @@
+{
+  "id": "sosp-2025-robust-llm-training-bytedance",
+  "source": "arxiv",
+  "url": "https://arxiv.org/abs/2509.16293",
+  "pdf_url": "https://arxiv.org/pdf/2509.16293",
+  "fetched_at": "2026-11-03T04:04:03+00:00",
+  "files": {
+    "pdf": "paper.pdf",
+    "tex_src": "src/（35 个文件）"
+  }
+}
