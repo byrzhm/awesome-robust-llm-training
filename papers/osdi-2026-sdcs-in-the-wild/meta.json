@@ -1,0 +1,11 @@
+{
+  "id": "osdi-2026-sdcs-in-the-wild",
+  "source": "usenix",
+  "url": "https://www.usenix.org/conference/osdi26/presentation/zheng",
+  "pdf_url": "https://www.usenix.org/system/files/osdi26-zheng.pdf",
+  "fetched_at": "2026-11-03T04:03:20+00:00",
+  "files": {
+    "pdf": "paper.pdf",
+    "tex_src": null
+  }
+}
