@@ -1,0 +1,12 @@
+# 下载的论文原件不入库（版权 + 体积）；阅读报告 report.md 与 figures/ 默认保留。
+# 若仓库完全公开且介意图片版权，可将 papers/ 整体忽略。
+papers/*/paper.pdf
+papers/*/src/
+papers/*/src.pdf
+papers/*/src.bin
+
+# 本地克隆的参考仓库（如 repos/TrainMover），体积大且非本仓库策展内容
+repos/
+
+# macOS
+.DS_Store
