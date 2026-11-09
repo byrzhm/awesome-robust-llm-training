@@ -1,0 +1,11 @@
+{
+  "id": "osdi-2026-trainmover",
+  "source": "arxiv",
+  "url": "https://arxiv.org/abs/2412.12636",
+  "pdf_url": "https://arxiv.org/pdf/2412.12636",
+  "fetched_at": "2026-11-03T08:01:21+00:00",
+  "files": {
+    "pdf": "paper.pdf",
+    "tex_src": "src/（60 个文件）"
+  }
+}
